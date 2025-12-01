@@ -1,6 +1,6 @@
+<p align="center"> <img src="./Banner.png" alt="Banner Raúl Uclés"/> </p>
 🌟 ¡Hola! Soy Raúl Uclés
 🚀 Web Developer | Full Stack | Estudiante de Ingeniería en IA
-<p align="center"> <img src="./Banner.png" alt="Banner Raúl Uclés"/> </p>
 
 
 👨‍💻 Sobre mí
