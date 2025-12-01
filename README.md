@@ -8,4 +8,4 @@ Soy Raúl, developer graduado de un bootcamp Full Stack, apasionado por el desar
 Actualmente estudio Ingeniería en Inteligencia Artificial, combinando la programación con ciencia de datos, machine learning y automatización.
 <br><br>
 🔗 Puedes saber más sobre mí en mis RRSS
-<p align="left"> <a href="www.linkedin.com/in/raúl-uclés-lajara-279870375" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/rauulucless" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+<p align="left"> <a href=www.linkedin.com/in/raúl-uclés-lajara-279870375" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/rauulucless" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
